@@ -1,0 +1,1 @@
+//Crie um programa para calcular a potência de 2 elevado a 3

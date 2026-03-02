@@ -1,0 +1,1 @@
+//Crie um programa para verificar se a senha 1234 permite ou não permite acesso

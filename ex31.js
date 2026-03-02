@@ -1,0 +1,1 @@
+//Crie um programa para mostrar número pares de 1 a 10 usando while
