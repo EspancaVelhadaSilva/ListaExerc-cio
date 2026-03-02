@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: linear-gradient(to left, gray, rgb(60, 0, 170), rgba(21, 141, 253, 0.836));
+    border: 50px;
+}
+input{
+    display: block;
+    margin: 10px auto; 
+    padding: 8px;
+}
+button{
+    padding: 8px 20px;
+}
