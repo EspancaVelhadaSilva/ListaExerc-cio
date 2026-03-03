@@ -1,1 +1,0 @@
-//Criar um programa que mostre conceitos A B C ou D de acordo com as notas: >9.5 A; Entre 9.4 e 8.5 B; Entre 8.4 e 7.0 C; <6.9 D;
