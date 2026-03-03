@@ -1,1 +1,0 @@
-//Crie um programa que mostre os números de 1 a 10 usando laço (for)
